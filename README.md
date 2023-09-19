@@ -1,6 +1,6 @@
 # Big Basket Clone
 
-This collaborative project is a clone of the [BigBasket](https://www.bigbasket.com/) website. We as a team of 3 members cloned this website during our Unit 3 in Masai School, Bangalore.
+This project is a clone of the [BigBasket](https://www.bigbasket.com/) website. 
 
 Big Basket is one of the largest online grocery delivery service in India. Big Basket provides the convenience of finding all of customer needs from daily household items to other grocery items at a single platform. A single platform to explore different category products and order it to your doorstep. It is a key driver in revolutionizing the online grocery market in India.
 
