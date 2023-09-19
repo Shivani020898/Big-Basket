@@ -34,10 +34,7 @@ Big Basket is one of the largest online grocery delivery service in India. Big B
 
 
 
-## Contributors
 
-Samiksha Prashad
-Aseem Paul
 
 
 
